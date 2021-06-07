@@ -1,0 +1,11 @@
+1.CUM SE RULEAZA PROIECTUL
+python manage.py makemigrations
+python manage.py migrate
+(aceste doua de mai sus daca este cazul)
+
+aici aveti si superuserul in caz ca vi l cere -->user admin parola sasuke31
+
+python manage.py runserver
+
+Am facut preluarea datelor de pe stormglass, le am splituit si am facut o predictie cu regresie.
+In fisierul word v am atasat mai multe poze si detalii sa vedeti ca merge! READ IT!!
